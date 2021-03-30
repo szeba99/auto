@@ -1,0 +1,10 @@
+DoomEdNums
+{
+	10001 = teherauto
+}
+
+GameInfo
+{
+   PlayerClasses = "Driver", "DoomPlayer"
+   //AddEventHandlers = "asdasd"
+}

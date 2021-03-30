@@ -1,0 +1,9 @@
+/*
+Alias "steerright" ""
+AddMenuKey "Steer right" "steerright"
+DefaultBind "A" "steerright"
+
+Alias "steerleft" ""
+AddMenuKey "Steer left" "steerleft"
+DefaultBind "D" "steerleft"
+*/

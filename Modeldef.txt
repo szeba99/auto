@@ -1,0 +1,36 @@
+
+
+
+
+
+Model teher 
+{
+Path models/
+Model 0 teher.obj
+Skin 0 teher.png
+Scale 70 70 70
+Offset 0 0 0
+AngleOffset 90
+USEACTORROLL
+USEACTORPITCH
+
+FrameIndex 0000 A 0 0 
+
+}
+
+Model wheel2
+{
+Path models/
+Model 0 wheel.obj
+Skin 0 teher.png
+Scale 60 70 70
+Offset 0 0 0
+AngleOffset 90
+
+USEACTORROLL
+USEACTORPITCH
+
+FrameIndex 0000 A 0 0 
+}
+
+    
